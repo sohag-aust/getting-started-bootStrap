@@ -1,0 +1,1 @@
+learning bootStrap from basic and practice the properties
