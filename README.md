@@ -1,1 +1,3 @@
-learning bootStrap from basic and practice the properties
+# panda-commerce-using-bootStrap
+
+### [Live site](https://bootstrap-commerce.netlify.app/)
