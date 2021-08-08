@@ -1,3 +1,1 @@
-# panda-commerce-using-bootStrap
-
-### [Live site](https://bootstrap-commerce.netlify.app/)
+### [Food Collage Live-Site](https://food-collage.netlify.app/)
